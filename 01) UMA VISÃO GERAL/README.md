@@ -34,6 +34,13 @@ Go, muitas vezes referida como Golang, é uma linguagem de programação de cód
 
 Embora Go tenha muitas vantagens, é importante reconhecer que não é a melhor escolha para todos os cenários. A falta de suporte para herança de classes e tipos genéricos podem ser limitações em determinados contextos. No entanto, muitos desenvolvedores e organizações acham que Go é uma excelente escolha para desenvolver sistemas eficientes, escaláveis e de alta concorrência.
 
+## O "MASCOTE":
+A linguagem de programação Go, muitas vezes referida como Golang, não tem um mascote oficial como algumas outras linguagens de programação, como o mascote da linguagem Python (uma cobra), o mascote do Linux (Tux, o pinguim), ou o mascote do Java (o duque). No entanto, Go tem uma mascote não oficial, que é uma gopher.
+
+A gopher é uma espécie de roedor e é frequentemente usada como um ícone não oficial da comunidade Go. A escolha da gopher como mascote é uma homenagem ao nome da linguagem "Go," que se parece com a palavra "gopher." Além disso, a gopher é um animal simpático e amigável, refletindo a filosofia de design da linguagem Go, que visa ser simples, eficiente e amigável para os desenvolvedores.
+
+Embora a gopher seja uma criação não oficial da comunidade Go, ela se tornou um símbolo amplamente reconhecido da linguagem e é frequentemente usada em materiais de marketing, adesivos, camisetas e outras representações visuais relacionadas a Go.
+
 ## INSTALAÇÕES E CONFIGURAÇÕES:
 Para executar programas Go em sua máquina, você precisa instalar a linguagem Go. Aqui estão as etapas básicas para instalar o Go no seu sistema:
 
