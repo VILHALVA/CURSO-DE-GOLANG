@@ -2,15 +2,8 @@
 👨‍⚖️GO É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Golang)
-
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://go.dev/doc/) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://go.dev/doc/) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF&si=dQATi45Dly6a-hf9)
-
-<img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/altgiuwyavczlcflyh8c" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
