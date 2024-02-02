@@ -1,9 +1,7 @@
 # CURSO DE GOLANG
 👨‍⚖️GO É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://go.dev/doc/) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF&si=dQATi45Dly6a-hf9)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
@@ -802,4 +800,10 @@ Este exemplo ilustra como os conceitos de OOP podem ser implementados em Go usan
 7. **Problemas de Dependência:** A gestão de dependências em Go, embora tenha melhorado ao longo do tempo com ferramentas como o módulo Go, pode ser desafiadora em alguns cenários complexos.
 
 8. **Ausência de Frameworks GUI Nativos:** Go não oferece suporte nativo para o desenvolvimento de aplicativos com interfaces gráficas de usuário (GUI), o que limita sua aplicação em certos tipos de aplicativos de desktop.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "APRENDA GOLANG"](https://youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF&si=dQATi45Dly6a-hf9)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://go.dev/doc/)
+
 
