@@ -95,6 +95,7 @@
 - [CURSO CRIADO PELO "APRENDA GOLANG"](https://youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF&si=dQATi45Dly6a-hf9)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://go.dev/doc/)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:GOLANG)
 

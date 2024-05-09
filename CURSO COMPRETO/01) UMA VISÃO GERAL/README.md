@@ -85,7 +85,7 @@ Com o Go instalado e configurado, você está pronto para começar a escrever e 
 ## ERRO COMUM:
 ```
 [{
-	"resource": "/c:/Users/HP/Downloads/GITHUB/MEUS-CURSOS/CURSO DE GOLANG/01) CURSO/02) PACAGES E CICLO DE VIDA/main.go",
+	"resource": "/c:.../main.go",
 	"owner": "_generated_diagnostic_collection_name_#8",
 	"severity": 8,
 	"message": "gopls was not able to find modules in your workspace.\nWhen outside of GOPATH, gopls needs to know which modules you are working on.\nYou can fix this by opening your workspace to a folder inside a Go module, or\nby using a go.work file to specify multiple modules.\nSee the documentation for more information on setting up your workspace:\nhttps://github.com/golang/tools/blob/master/gopls/doc/workspace.md.",
