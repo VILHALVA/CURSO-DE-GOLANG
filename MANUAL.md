@@ -50,7 +50,7 @@
    - Abra o Terminal.
    - Digite `go version` e pressione Enter. Você deverá ver a versão do Go instalada.
 
-## PROJETO: DE CRIAÇÃO ATÉ COPILAÇÃO:
+## PROJETO: DE CRIAÇÃO DE APP ATÉ COPILAÇÃO
 ### Criando um Projeto:
 1. **Criar um diretório para o projeto:**
    - Abra o terminal ou prompt de comando.
@@ -134,3 +134,34 @@
      meu_projeto
      ```
 
+## PROJETO: SUBINDO O SERVIDOR
+O Go possui um pacote padrão chamado `net/http`, que fornece um servidor HTTP nativo. Com esse pacote, é possível criar rapidamente um servidor web para lidar com solicitações HTTP.
+
+Aqui está um exemplo simples de como criar um servidor web básico em Go usando o pacote `net/http`:
+
+```go
+package main
+
+import (
+    "fmt"
+    "net/http"
+)
+
+func handler(w http.ResponseWriter, r *http.Request) {
+    fmt.Fprintf(w, "Olá, você acessou: %s\n", r.URL.Path)
+}
+
+func main() {
+    http.HandleFunc("/", handler)
+    fmt.Println("Servidor web iniciado. Acesse http://localhost:8080/")
+    http.ListenAndServe(":8080", nil)
+}
+```
+
+Neste exemplo:
+
+- Definimos uma função `handler` que será chamada sempre que uma solicitação for feita para o servidor. Essa função responde com uma mensagem que inclui o caminho da solicitação (`r.URL.Path`).
+- No `main()`, registramos a função `handler` para o caminho raiz ("/") usando `http.HandleFunc`.
+- Em seguida, chamamos `http.ListenAndServe` para iniciar o servidor na porta 8080.
+
+Quando você executa este programa e acessa `http://localhost:8080/` em seu navegador, verá a mensagem "Olá, você acessou: /". Este é apenas um exemplo simples, mas com o pacote `net/http`, você pode construir servidores web mais complexos e robustos.
