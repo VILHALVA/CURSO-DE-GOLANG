@@ -48,6 +48,15 @@
    - O Go continua a evoluir com lançamentos regulares que trazem novos recursos, melhorias de desempenho e correções de bugs.
    - Algumas das versões mais significativas incluem o Go 1.0 (2012), que marcou a estabilização da API, e o Go 1.11 (2018), que introduziu o suporte a módulos.
 
+## GOLANG É EXTREMAMENTE PORTÁTIL:
+A linguagem Golang é conhecida por sua portabilidade e simplicidade no gerenciamento de dependências. Diferente de Tecnologias/Linguagens como Node.js e Python, que exigem a instalação manual de dependências antes da execução dos códigos (`npm install` para Node.js e `pip install -r requirements.txt` para Python), Golang oferece um processo mais direto e eficiente.
+
+### GOLANG E MÓDULOS:
+Golang utiliza um sistema de módulos para gerenciar dependências. Um módulo em Go é uma coleção de pacotes que são distribuídos juntos. O sistema de módulos foi introduzido para simplificar o gerenciamento de dependências e para garantir que o código funcione consistentemente em diferentes ambientes.
+
+### COMO FUNCIONA?
+Quando você trabalha com Go, basta criar um arquivo `go.mod` no diretório do seu projeto, que define as dependências do módulo. O arquivo `go.mod` é automaticamente atualizado quando você adiciona novas dependências usando o comando `go get`.
+
 ## CARACTERISTICAS:
 ### POSITIVAS:
 1. **Sintaxe Clara e Simples:** Go possui uma sintaxe concisa e fácil de aprender, o que facilita a leitura e escrita de código. A linguagem enfatiza a simplicidade e legibilidade.

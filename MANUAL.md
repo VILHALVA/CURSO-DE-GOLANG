@@ -1,6 +1,6 @@
 # MANUAL
 ## INSTALAÇÃO:
-### Instalando no Windows:
+### INSTALANDO NO WINDOWS:
 1. **Baixar o instalador:**
    - Acesse o site oficial do Go em [golang.org](https://golang.org/).
    - Clique no link "Download Go" na página inicial.
@@ -21,7 +21,7 @@
    - Abra o prompt de comando (CMD).
    - Digite `go version` e pressione Enter. Se a instalação for bem-sucedida, você verá a versão do Go instalada.
 
-### Instalando no macOS:
+### INSTALANDO NO MACOS:
 1. **Instalar via Homebrew (recomendado):**
    - Abra o Terminal.
    - Execute o seguinte comando para instalar o Go via Homebrew:
@@ -32,7 +32,7 @@
 2. **Verificar a instalação:**
    - Após a instalação, digite `go version` no Terminal e pressione Enter. Você deverá ver a versão do Go instalada.
 
-### Instalando no Linux:
+### INSTALANDO NO LINUX:
 1. **Instalação via gerenciador de pacotes (Debian/Ubuntu):**
    - Abra o Terminal.
    - Execute o seguinte comando para instalar o Go:
@@ -51,7 +51,7 @@
    - Digite `go version` e pressione Enter. Você deverá ver a versão do Go instalada.
 
 ## PROJETO: DE CRIAÇÃO DE APP ATÉ COPILAÇÃO
-### Criando um Projeto:
+### CRIANDO UM PROJETO:
 1. **Criar um diretório para o projeto:**
    - Abra o terminal ou prompt de comando.
    - Navegue até o diretório onde deseja criar o projeto.
@@ -104,7 +104,7 @@
 
     - Implemente uma mainfunção para imprimir uma mensagem no console. Uma mainfunção é executada por padrão quando você executa o mainpacote.
 
-## Executando o Projeto:
+### EXECUTANDO O PROJETO:
 1. **Executar o código Go:**
    - Para executar o código Go, use o comando `go run` seguido do nome do arquivo Go que contém a função `main()`. Por exemplo:
      ```
@@ -134,7 +134,7 @@
      meu_projeto
      ```
 
-## PROJETO: SUBINDO O SERVIDOR
+## PROJETO: SUBINDO O SERVIDOR:
 O Go possui um pacote padrão chamado `net/http`, que fornece um servidor HTTP nativo. Com esse pacote, é possível criar rapidamente um servidor web para lidar com solicitações HTTP.
 
 Aqui está um exemplo simples de como criar um servidor web básico em Go usando o pacote `net/http`:
